@@ -3,23 +3,31 @@
 - [General](#general)
   - [Dudas](#dudas)
 - [Planta baja](#planta-baja)
-  - [Terraza superior](#terraza-superior)
-    - [Dudas](#dudas-1)
   - [Patio delantero](#patio-delantero)
-    - [Dudas](#dudas-2)
+    - [Dudas](#dudas-1)
   - [Recibidor](#recibidor)
-    - [Dudas](#dudas-3)
+    - [Dudas](#dudas-2)
   - [Estudio](#estudio)
   - [Baño planta baja](#baño-planta-baja)
   - [Salón](#salón)
   - [Cocina](#cocina)
-    - [Dudas](#dudas-4)
+    - [Dudas](#dudas-3)
   - [Terraza trasera](#terraza-trasera)
-    - [Dudas](#dudas-5)
+    - [Dudas](#dudas-4)
   - [Piscina/Jardin](#piscinajardin)
-    - [Dudas](#dudas-6)
+    - [Dudas](#dudas-5)
   - [Trastero](#trastero)
-    - [Dudas](#dudas-7)
+    - [Dudas](#dudas-6)
+- [Planta alta](#planta-alta)
+  - [Matrimonio](#matrimonio)
+  - [Dudas](#dudas-7)
+  - [Baño insuite](#baño-insuite)
+  - [Baño de servicio](#baño-de-servicio)
+  - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
+  - [Habitación sobre estudio](#habitación-sobre-estudio)
+  - [Habitacion sobre entrada](#habitacion-sobre-entrada)
+- [Tejado](#tejado)
+  - [Dudas](#dudas-8)
 
 <!-- /TOC -->
 
@@ -30,18 +38,8 @@
 
 ## Dudas
 
-
 # Planta baja
-## Terraza superior
 
-- ✔️ Instalación de placas solares
-- ✔️ Caseta para baterías e inversor situada sobre baños
-- ✔️ RJ45 hasta switch
-
-### Dudas
-
-- ❓ Distribución en tejado
-- ❓ Espacio disponible para a futuro poner más placas y más baterías
 
 ## Patio delantero
 
@@ -79,6 +77,7 @@
 
 - ✔️ Bidet
 - ✔️ Girar plato de ducha y hacer baldas en el hueco de la columna
+- ✔️ Toalleros bajo pila
 
 ## Salón
 
@@ -101,36 +100,86 @@
 - ❓ Mueble alto/bajo en pared junto a nevera como dibuja Elena
   - ![](2022-12-02-10-57-26.png)
 
-
 ## Terraza trasera
+
 - ✔️ Sacar aerotermia
 - ✔️ Sacar lavadora
 - ✔️ Sacar Secadora
 - ✔️ Pila
 - ✔️ Armario corredera con posibilidad de llave para cerrar zona lavandería
+- ✔️ Toma RJ45 para cámara en techo
 
 ### Dudas
+
 - ❓Modelo aerotermia (capacidad litros, etc)
 
 ## Piscina/Jardin
-- ✔️  Desplazar piscina hacia el trastero dejando el hueco para caseta depuradora y ducha
+
+- ✔️ Desplazar piscina hacia el trastero dejando el hueco para caseta depuradora y ducha
 - ✔️ Caseta depuradora enterrada
 - ✔️ Depuración salina
 - ✔️ ducha solar 18L
 
-
 ### Dudas
+
 - ❓Ubicación toma de agua para plantas, etc
 - ❓Ubicación desagues en terraza para evitar inundaciones
-- ❓ Suelo de baldosa antideslizante 
+- ❓ Suelo de baldosa antideslizante
 - ❓ Corrugado para instalaciónn de luces
 
 ## Trastero
-- ✔️  Aislamiento
-- ✔️ Persiana eléctrica de seguridad
-- ✔️  Toma RJ45
-- ✔️ Preinstalación aire acondicionado
-### Dudas
-- ❓Suelo de baldosa
--❓  Aire acondicionado
 
+- ✔️ Aislamiento
+- ✔️ Persiana eléctrica de seguridad
+- ✔️ Toma RJ45 en el interior
+- ✔️ Toma RJ45 para cámara
+- ✔️ Preinstalación aire acondicionado
+
+### Dudas
+
+- ❓Suelo de baldosa
+  -❓ Aire acondicionado
+
+# Planta alta
+
+## Matrimonio
+
+- ✔️ Persiana eléctrica de seguridad
+
+## Dudas
+
+## Baño insuite
+
+- ✔️ Bañera en lugar de plato
+- ✔️ Toalleros bajo pila
+
+## Baño de servicio
+
+- ✔️ Bidet
+- ✔️ Toallero bajo pila
+
+## Habitacion junto matrimonio
+
+- ✔️ Persiana eléctrica de seguridad
+
+## Habitación sobre estudio
+
+- ✔️ Persiana eléctrica de seguridad
+
+## Habitacion sobre entrada
+
+- ✔️ Persiana eléctrica de seguridad
+
+
+# Tejado
+
+
+
+- ✔️ Instalación de placas solares
+- ✔️ Caseta para baterías e inversor situada sobre baños
+- ✔️ RJ45 hasta switch
+
+## Dudas
+
+- ❓ Distribución en tejado
+- ❓ Espacio disponible para a futuro poner más placas y más baterías
