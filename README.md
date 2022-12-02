@@ -156,6 +156,7 @@
 
 - ✔️ Bañera en lugar de plato
 - ✔️ Toalleros bajo pila
+- ✔️ Enchufe para toallero eléctrico
 
 ### Dudas
 
@@ -163,6 +164,7 @@
 
 - ✔️ Bidet
 - ✔️ Toallero bajo pila
+- ✔️ Enchufe para toallero eléctrico
 
 ### Dudas
 
