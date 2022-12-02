@@ -31,7 +31,9 @@
   - [Dudas](#dudas-7)
 
 <!-- /TOC -->
+
 # Dudas generales
+
 - Enchufe doble en baños? (secador, ambientador, cepillo eléctrico, etc?)
 - Water japonés?
 - Nos van a poner 2 módulos de batería que se pueden ampliar hasta ser 5, y poner 3 módulos de 5 en total.
@@ -39,6 +41,7 @@
 - En la terraza, poner llave doble para dejar 'fijos' y operar por separado?
   - Calefactor?
   - Antimosquitos?
+
 # Planta baja
 
 ## General
@@ -53,7 +56,7 @@
 - ✔️ Preinstalación para poner cargador de coche eléctrico (corrugado hasta el cuadro, etc.). Punto cerca del medio de la fachada, centrado en la zona de aparcamiento.
 - ✔️ Descalcificador
 - ✔️ Caja estanca en techo porche delantero, esquina más cercana a puerta entrada de la calle
-  - ✔️ Cable RJ45 dentro de la caja estanca  para POE
+  - ✔️ Cable RJ45 dentro de la caja estanca para POE
 
 ### Dudas
 
@@ -66,8 +69,9 @@
   - Con espacio para electrónica de red (conversor de medios, router operadora, router, switch, etc)
   - Enchufe en rail para poder conectar una regleta con los dispositivos anteriores
     - ![](2022-12-02-19-09-57.png)
+  - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
 - ✔️ Armario bajo escalera
-- ✔️ Toma RJ45 en techo junto a escalera para AP
+- ✔️ Toma RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
 - ✔️ Enclufe incluido (lámpara)
 - ✔️ 🔌 Enchufe adicional (marco de fotos)
@@ -79,6 +83,7 @@
   - Posibilidad de módulo más alto que sea como los de los armarios de la casa (balda + barra) y que el resto sea una puerta que de acceso al resto del espacio
     - 🔌 Enchufe en el interior de este armario
 - ❓ Videoportero en pared del baño
+- ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'?
 
 ## Estudio
 
@@ -109,7 +114,7 @@
 
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ mover placa hacia el centro
-- De los 4 enchufes, poner uno a cada lado de la placa y mover los otros dos, uno a la zona de la mesa y otro a formar parte de los del mueble de desayuno.
+- De los 4 enchufes, poner uno a cada lado de la placa y mover los otros dos, a la zona de la mesa, uno a poca altura sobre ella (thermomix,movil, etc) y otro altura más elevada para marco Alexa
 - ✔️ Luces bajo muebles del banco
 - ✔️ Hendidura antigoteo el canto de la encimera (rebaje por la parte inferior)
 - ✔️ Osmosis con grifo doble en 1 caño
@@ -127,18 +132,22 @@
   - ❓ Mover interruptor conmutada junto a enchufe cerca de la pila por si se entra desde la terraza
   - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
   - ❓ 4 enchufes en la zona de mesado del mueble junto a nevera
+    - Cafetera 1
+    - Cafetera 2
+    - Dolce Bibe
+    - Otros?
 
 ## Terraza trasera
 
-- ✔️  Zona de lavanderia
+- ✔️ Zona de lavanderia
   - ✔️ Sacar aerotermia
   - ✔️ Sacar lavadora
   - ✔️ Sacar Secadora
   - ✔️ Pila
   - ✔️ Armario corredera con llave para cerrar zona lavandería
 - ✔️ Caja estanca en parte central del porche, alineada con puerta trastero
-  - ✔️ Toma RJ45 dentro de la caja estanca
-- ✔️ Enchufes en zona alta pared cerca de la pérgola con llave doble  (mosquitos, calefacción)
+  - ✔️ Toma RJ45 dentro de la caja estanca para Camara POE
+- ✔️ Enchufes en zona alta pared cerca de la pérgola con llave doble (mosquitos, calefacción)
   - una conmutada con el interruptor interior para el punto de luz planificado
   - otra que simple que encienda o apague el enchufe ubicado en la parte alta
 
@@ -171,6 +180,7 @@
 - ✔️ Toma RJ45 en el interior desde la casa
 - ✔️ Toma RJ45 en el exterior para cámara
 - ✔️ Preinstalación aire acondicionado
+- ✔️ Puerta cortafuegos
 
 ### Dudas
 
@@ -202,8 +212,9 @@
 - ✔️ Toallero bajo pila
 - ✔️ Enchufe para toallero eléctrico
 - ✔️ Tapa water retardada
-- ✔️ Tapa bidet retardada 
+- ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
+
 ## Habitacion junto matrimonio
 
 - ✔️ Persiana eléctrica de seguridad
@@ -225,3 +236,4 @@
 ## Dudas
 
 - ❓ Espacio disponible para a futuro poner más placas y más baterías
+- ❓ Confirmación de modo full backup automático
