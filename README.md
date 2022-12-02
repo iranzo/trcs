@@ -1,3 +1,7 @@
+---
+title: Estado
+---
+
 <!-- TOC -->
 
 - [General](#general)
@@ -22,12 +26,17 @@
   - [Matrimonio](#matrimonio)
   - [Dudas](#dudas-7)
   - [Baño insuite](#baño-insuite)
+    - [Dudas](#dudas-8)
   - [Baño de servicio](#baño-de-servicio)
+    - [Dudas](#dudas-9)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
+    - [Dudas](#dudas-10)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
+    - [Dudas](#dudas-11)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
+    - [Dudas](#dudas-12)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-8)
+  - [Dudas](#dudas-13)
 
 <!-- /TOC -->
 
@@ -39,7 +48,6 @@
 ## Dudas
 
 # Planta baja
-
 
 ## Patio delantero
 
@@ -53,7 +61,7 @@
 
 ### Dudas
 
-- ❓Tamaño y ubicación de descalcificador
+- ❓ Tamaño y ubicación de descalcificador
 
 ## Recibidor
 
@@ -111,7 +119,7 @@
 
 ### Dudas
 
-- ❓Modelo aerotermia (capacidad litros, etc)
+- ❓ Modelo aerotermia (capacidad litros, etc)
 
 ## Piscina/Jardin
 
@@ -122,8 +130,8 @@
 
 ### Dudas
 
-- ❓Ubicación toma de agua para plantas, etc
-- ❓Ubicación desagues en terraza para evitar inundaciones
+- ❓ Ubicación toma de agua para plantas, etc
+- ❓ Ubicación desagues en terraza para evitar inundaciones
 - ❓ Suelo de baldosa antideslizante
 - ❓ Corrugado para instalaciónn de luces
 
@@ -137,7 +145,7 @@
 
 ### Dudas
 
-- ❓Suelo de baldosa
+- ❓ Suelo de baldosa
   -❓ Aire acondicionado
 
 # Planta alta
@@ -153,27 +161,34 @@
 - ✔️ Bañera en lugar de plato
 - ✔️ Toalleros bajo pila
 
+### Dudas
+
 ## Baño de servicio
 
 - ✔️ Bidet
 - ✔️ Toallero bajo pila
 
+### Dudas
+
 ## Habitacion junto matrimonio
 
 - ✔️ Persiana eléctrica de seguridad
+
+### Dudas
 
 ## Habitación sobre estudio
 
 - ✔️ Persiana eléctrica de seguridad
 
+### Dudas
+
 ## Habitacion sobre entrada
 
 - ✔️ Persiana eléctrica de seguridad
 
+### Dudas
 
 # Tejado
-
-
 
 - ✔️ Instalación de placas solares
 - ✔️ Caseta para baterías e inversor situada sobre baños
@@ -181,5 +196,4 @@
 
 ## Dudas
 
-- ❓ Distribución en tejado
 - ❓ Espacio disponible para a futuro poner más placas y más baterías
