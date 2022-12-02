@@ -1,38 +1,31 @@
 <!-- TOC -->
 
 - [General](#general)
-  - [Dudas](#dudas)
 - [Planta baja](#planta-baja)
   - [Patio delantero](#patio-delantero)
-    - [Dudas](#dudas-1)
+    - [Dudas](#dudas)
   - [Recibidor](#recibidor)
-    - [Dudas](#dudas-2)
+    - [Dudas](#dudas-1)
   - [Estudio](#estudio)
   - [Baño planta baja](#baño-planta-baja)
   - [Salón](#salón)
   - [Cocina](#cocina)
-    - [Dudas](#dudas-3)
+    - [Dudas](#dudas-2)
   - [Terraza trasera](#terraza-trasera)
-    - [Dudas](#dudas-4)
+    - [Dudas](#dudas-3)
   - [Piscina/Jardin](#piscinajardin)
-    - [Dudas](#dudas-5)
+    - [Dudas](#dudas-4)
   - [Trastero](#trastero)
-    - [Dudas](#dudas-6)
+    - [Dudas](#dudas-5)
 - [Planta alta](#planta-alta)
   - [Matrimonio](#matrimonio)
-  - [Dudas](#dudas-7)
   - [Baño insuite](#baño-insuite)
-    - [Dudas](#dudas-8)
   - [Baño de servicio](#baño-de-servicio)
-    - [Dudas](#dudas-9)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
-    - [Dudas](#dudas-10)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
-    - [Dudas](#dudas-11)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
-    - [Dudas](#dudas-12)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-13)
+  - [Dudas](#dudas-6)
 
 <!-- /TOC -->
 
@@ -41,7 +34,6 @@
 - ✔️ Airzone planta baja
 - ✔️ Airzone planta alta
 
-## Dudas
 
 # Planta baja
 
@@ -142,7 +134,7 @@
 ### Dudas
 
 - ❓ Suelo de baldosa
-  -❓ Aire acondicionado
+-❓ Aire acondicionado
 
 # Planta alta
 
@@ -150,7 +142,7 @@
 
 - ✔️ Persiana eléctrica de seguridad
 
-## Dudas
+
 
 ## Baño insuite
 
@@ -158,7 +150,7 @@
 - ✔️ Toalleros bajo pila
 - ✔️ Enchufe para toallero eléctrico
 
-### Dudas
+
 
 ## Baño de servicio
 
@@ -166,25 +158,23 @@
 - ✔️ Toallero bajo pila
 - ✔️ Enchufe para toallero eléctrico
 
-### Dudas
+
 
 ## Habitacion junto matrimonio
 
 - ✔️ Persiana eléctrica de seguridad
 
-### Dudas
-
 ## Habitación sobre estudio
 
 - ✔️ Persiana eléctrica de seguridad
 
-### Dudas
+
 
 ## Habitacion sobre entrada
 
 - ✔️ Persiana eléctrica de seguridad
 
-### Dudas
+
 
 # Tejado
 
