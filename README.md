@@ -1,7 +1,3 @@
----
-title: Estado
----
-
 <!-- TOC -->
 
 - [General](#general)
