@@ -19,7 +19,7 @@
     - [Dudas](#dudas-5)
 - [Planta alta](#planta-alta)
   - [Matrimonio](#matrimonio)
-  - [Baño insuite](#baño-insuite)
+    - [Baño insuite](#baño-insuite)
   - [Baño de servicio](#baño-de-servicio)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
@@ -104,6 +104,7 @@
 - ✔️ Pila
 - ✔️ Armario corredera con posibilidad de llave para cerrar zona lavandería
 - ✔️ Toma RJ45 para cámara en techo
+- ✔️ Enchufes en zona alta pared cerca de la pérgola
 
 ### Dudas
 
@@ -121,7 +122,7 @@
 - ❓ Ubicación toma de agua para plantas, etc
 - ❓ Ubicación desagues en terraza para evitar inundaciones
 - ❓ Suelo de baldosa antideslizante
-- ❓ Corrugado para instalaciónn de luces
+- ❓ Corrugado para instalación de luces
 
 ## Trastero
 
@@ -144,7 +145,7 @@
 
 
 
-## Baño insuite
+### Baño insuite
 
 - ✔️ Bañera en lugar de plato
 - ✔️ Toalleros bajo pila
