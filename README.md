@@ -133,8 +133,8 @@
 
 ### Dudas
 
-- ❓ Suelo de baldosa
--❓ Aire acondicionado
+- ❓Suelo de baldosa
+- ❓ Aire acondicionado
 
 # Planta alta
 
