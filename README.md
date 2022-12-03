@@ -38,7 +38,8 @@
 - ❓ Domótica
 
 # Planta baja
-
+- ![](abajo.png)
+- ![](baja-electri.png)
 ## General
 
 - ✔️ Airzone planta baja
@@ -179,7 +180,8 @@
 - ❓ Corrugado para instalación de luces
 
 ## Trastero
-
+ ![](trastero.png)
+ 
 - ✔️ Aislamiento
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ Toma RJ45 en el interior desde la casa
@@ -192,10 +194,12 @@
 - ❓ Suelo de baldosa
 
 # Planta alta
-
+![](arriba.png) 
+![](alta-electri.png)
 ## General
 
 - ✔️ Airzone planta alta
+- Telefonillo portero en la pared del baño
 
 ## Matrimonio
 
