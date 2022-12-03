@@ -3,22 +3,23 @@
 - [Dudas generales](#dudas-generales)
 - [Planta baja](#planta-baja)
   - [General](#general)
-  - [Patio delantero](#patio-delantero)
     - [Dudas](#dudas)
-  - [Recibidor](#recibidor)
+  - [Patio delantero](#patio-delantero)
     - [Dudas](#dudas-1)
+  - [Recibidor](#recibidor)
+    - [Dudas](#dudas-2)
   - [Estudio](#estudio)
   - [Baño planta baja](#baño-planta-baja)
   - [Salón](#salón)
-    - [Dudas](#dudas-2)
-  - [Cocina](#cocina)
     - [Dudas](#dudas-3)
-  - [Terraza trasera](#terraza-trasera)
+  - [Cocina](#cocina)
     - [Dudas](#dudas-4)
-  - [Piscina/Jardin](#piscinajardin)
+  - [Terraza trasera](#terraza-trasera)
     - [Dudas](#dudas-5)
-  - [Trastero](#trastero)
+  - [Piscina/Jardin](#piscinajardin)
     - [Dudas](#dudas-6)
+  - [Trastero](#trastero)
+    - [Dudas](#dudas-7)
 - [Planta alta](#planta-alta)
   - [General](#general-1)
   - [Matrimonio](#matrimonio)
@@ -28,18 +29,23 @@
   - [Habitación sobre estudio](#habitación-sobre-estudio)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-7)
+  - [Dudas](#dudas-8)
 
 <!-- /TOC -->
 
 # Dudas generales
 
+- ❓ Domótica
 
 # Planta baja
 
 ## General
 
 - ✔️ Airzone planta baja
+
+### Dudas
+
+- ❓ Foseado led con llave adicional en pasillos
 
 ## Patio delantero
 
@@ -67,7 +73,7 @@
 - ✔️ Toma RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
 - ✔️ Enclufe incluido (lámpara)
-
+- ✔️ Videoportero con Wifi
 
 ### Dudas
 
@@ -76,7 +82,7 @@
   - Posibilidad de módulo más alto que sea como los de los armarios de la casa (balda + barra) y que el resto sea una puerta que de acceso al resto del espacio
     - Que ambas puertas sean estéticamente iguales aunque la de la izquierda de acceso a paso diáfano
     - Que las puertas sean a suelo
-   - 🔌 Enchufe en el interior de este armario
+  - 🔌 Enchufe en el interior de este armario
 - ❓ Videoportero en pared del baño
 - ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'? ¿Cómo es la estética de la escalera en general?
 
@@ -97,7 +103,7 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
-- ✔️ Monomando integrado en pared + ducha de mano 
+- ✔️ Monomando integrado en pared + ducha de mano
 
 ## Salón
 
@@ -106,6 +112,7 @@
 ### Dudas
 
 - ❓ Mover conmutador luces pasillo al lado de la columna que no está en la cocina, más hacia el recibidor
+- ❓ Foseado led con llave adicional
 
 ## Cocina
 
@@ -119,7 +126,6 @@
 - Electrodomésticos en blanco de cristal (microondas, horno)
 - Lavavajillas panelado
 
-
 ### Dudas
 
 - ❓ Puerta de cassete como dibuja Elena
@@ -132,7 +138,6 @@
     - - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
   - ❓ Mover interruptor conmutada junto a enchufe cerca de la pila por si se entra desde la terraza
   - ❓ 2 enchufes en la zona de mesado del mueble junto a nevera
-
 
 ## Terraza trasera
 
@@ -148,7 +153,6 @@
 - Añadir otra llave doble al lado a dos puntos de luz en el techo.
   - Una para antimosquitos
   - Otra para calefactores
-
 
 ### Dudas
 
@@ -205,7 +209,7 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
-- ✔️ Monomando integrado en pared + ducha de mano 
+- ✔️ Monomando integrado en pared + ducha de mano
 
 ## Baño de servicio
 
@@ -215,7 +219,7 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
-- ✔️ Monomando integrado en pared + ducha de mano  
+- ✔️ Monomando integrado en pared + ducha de mano
 
 ## Habitacion junto matrimonio
 
