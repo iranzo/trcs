@@ -34,13 +34,6 @@
 
 # Dudas generales
 
-- Enchufe doble en baños? (secador, ambientador, cepillo eléctrico, etc?)
-- Water japonés?
-- Nos van a poner 2 módulos de batería que se pueden ampliar hasta ser 5, y poner 3 módulos de 5 en total.
-  - ¿cuantas placas cabrían en total? Ajustar tamaño de caseta a dicho valor
-- En la terraza, poner llave doble para dejar 'fijos' y operar por separado?
-  - Calefactor?
-  - Antimosquitos?
 
 # Planta baja
 
@@ -56,7 +49,7 @@
 - ✔️ Preinstalación para poner cargador de coche eléctrico (corrugado hasta el cuadro, etc.). Punto cerca del medio de la fachada, centrado en la zona de aparcamiento.
 - ✔️ Descalcificador
 - ✔️ Caja estanca en techo porche delantero, esquina más cercana a puerta entrada de la calle
-  - ✔️ Cable RJ45 dentro de la caja estanca para POE
+  - ✔️ Cable RJ45 dentro de la caja estanca hasta el switch
 
 ### Dudas
 
@@ -74,19 +67,22 @@
 - ✔️ Toma RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
 - ✔️ Enclufe incluido (lámpara)
-- ✔️ 🔌 Enchufe adicional (marco de fotos)
+
 
 ### Dudas
 
 - ❓ Puerta única o varias como dibuja Elena en el armario
   - ![](2022-12-02-10-48-21.png)
   - Posibilidad de módulo más alto que sea como los de los armarios de la casa (balda + barra) y que el resto sea una puerta que de acceso al resto del espacio
-    - 🔌 Enchufe en el interior de este armario
+    - Que ambas puertas sean estéticamente iguales aunque la de la izquierda de acceso a paso diáfano
+    - Que las puertas sean a suelo
+   - 🔌 Enchufe en el interior de este armario
 - ❓ Videoportero en pared del baño
-- ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'?
+- ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'? ¿Cómo es la estética de la escalera en general?
 
 ## Estudio
 
+- Quitar reja
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ Armario empotrado como habitación de la planta superior
 - ✔️ 🔌 Toma adicional de teléfono
@@ -101,6 +97,7 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
+- ✔️ Monomando integrado en pared + ducha de mano 
 
 ## Salón
 
@@ -115,27 +112,27 @@
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ mover placa hacia el centro
 - De los 4 enchufes, poner uno a cada lado de la placa y mover los otros dos, a la zona de la mesa, uno a poca altura sobre ella (thermomix,movil, etc) y otro altura más elevada para marco Alexa
-- ✔️ Luces bajo muebles del banco
+- ✔️ Luces bajo muebles del banco (pared de aguas y la otra)
+  - Interruptor junto a enchufes
 - ✔️ Hendidura antigoteo el canto de la encimera (rebaje por la parte inferior)
 - ✔️ Osmosis con grifo doble en 1 caño
+- Electrodomésticos en blanco de cristal (microondas, horno)
+- Lavavajillas panelado
+
 
 ### Dudas
 
 - ❓ Puerta de cassete como dibuja Elena
   - ![](2022-12-02-10-55-16.png)
 - ❓ Posibilidad toma TV junto a columa extractores y enchufe
-
 - Si cocina cerrada:
   - ❓ Cerrar pared que da al salón
   - ❓ Mueble alto/bajo en pared junto a nevera como dibuja Elena
     - ![](2022-12-02-10-57-26.png)
+    - - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
   - ❓ Mover interruptor conmutada junto a enchufe cerca de la pila por si se entra desde la terraza
-  - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
-  - ❓ 4 enchufes en la zona de mesado del mueble junto a nevera
-    - Cafetera 1
-    - Cafetera 2
-    - Dolce Bibe
-    - Otros?
+  - ❓ 2 enchufes en la zona de mesado del mueble junto a nevera
+
 
 ## Terraza trasera
 
@@ -146,10 +143,12 @@
   - ✔️ Pila
   - ✔️ Armario corredera con llave para cerrar zona lavandería
 - ✔️ Caja estanca en parte central del porche, alineada con puerta trastero
-  - ✔️ Toma RJ45 dentro de la caja estanca para Camara POE
-- ✔️ Enchufes en zona alta pared cerca de la pérgola con llave doble (mosquitos, calefacción)
-  - una conmutada con el interruptor interior para el punto de luz planificado
-  - otra que simple que encienda o apague el enchufe ubicado en la parte alta
+  - ✔️ Cable RJ45 hasta switch
+- La luz exterior que tenga llave en la cocina, en el salón y en la pared donde está situado el punto de luz para iluminación.
+- Añadir otra llave doble al lado a dos puntos de luz en el techo.
+  - Una para antimosquitos
+  - Otra para calefactores
+
 
 ### Dudas
 
@@ -165,6 +164,8 @@
   - ![](2022-12-02-19-10-48.png)
 - ✔️ Mantener jardín en zona más cerca a la casa
 - ✔️ Quitar jardín en la zona más cercana al trastero (depuradora + ducha solar)
+- Añadir llave conmutada para las luces del jardin en el trastero
+- Añadir toma de corriente en la pared de cerca del jardin
 
 ### Dudas
 
@@ -179,13 +180,12 @@
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ Toma RJ45 en el interior desde la casa
 - ✔️ Toma RJ45 en el exterior para cámara
-- ✔️ Preinstalación aire acondicionado
+- ✔️ Aire acondicionado
 - ✔️ Puerta cortafuegos
 
 ### Dudas
 
-- ❓Suelo de baldosa
-- ❓ Aire acondicionado
+- ❓ Suelo de baldosa
 
 # Planta alta
 
@@ -205,6 +205,7 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
+- ✔️ Monomando integrado en pared + ducha de mano 
 
 ## Baño de servicio
 
@@ -214,6 +215,7 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
+- ✔️ Monomando integrado en pared + ducha de mano  
 
 ## Habitacion junto matrimonio
 
@@ -229,7 +231,7 @@
 
 # Tejado
 
-- ✔️ Instalación de placas solares
+- ✔️ Instalación de placas solares con Fronius
 - ✔️ Caseta para baterías e inversor situada sobre baños
 - ✔️ RJ45 hasta switch
 
