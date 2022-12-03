@@ -188,6 +188,7 @@
 - ✔️ Toma RJ45 en el exterior para cámara
 - ✔️ Aire acondicionado
 - ✔️ Puerta cortafuegos
+- Punto de luz sobre la ventana, conmutado con el de la pared lateral hasta el porche cubierto
 
 ### Dudas
 
