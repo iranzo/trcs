@@ -25,11 +25,12 @@
   - [Matrimonio](#matrimonio)
     - [Baño insuite](#baño-insuite)
   - [Baño de servicio](#baño-de-servicio)
+    - [Dudas](#dudas-8)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-8)
+  - [Dudas](#dudas-9)
 
 <!-- /TOC -->
 
@@ -71,7 +72,7 @@
     - ![](2022-12-02-19-09-57.png)
   - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
 - ✔️ Armario bajo escalera
-- ✔️ Toma RJ45 en techo junto a escalera hacia zona salón para AP
+- ✔️ Cable RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
 - ✔️ Enclufe incluido (lámpara)
 - ✔️ Videoportero con Wifi
@@ -85,6 +86,7 @@
     - Que las puertas sean a suelo
   - 🔌 Enchufe en el interior de este armario
 - ❓ Videoportero en pared del baño
+  - Enchufe para Alexa
 - ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'? ¿Cómo es la estética de la escalera en general?
 
 ## Estudio
@@ -121,7 +123,7 @@
 - ✔️ mover placa hacia el centro
 - De los 4 enchufes, poner uno a cada lado de la placa y mover los otros dos, a la zona de la mesa, uno a poca altura sobre ella (thermomix,movil, etc) y otro altura más elevada para marco Alexa
 - ✔️ Luces bajo muebles del banco (pared de aguas y la otra)
-  - Interruptor junto a enchufes
+  - Interruptor junto a enchufes para activar las luces bajo mueble
 - ✔️ Hendidura antigoteo el canto de la encimera (rebaje por la parte inferior)
 - ✔️ Osmosis con grifo doble en 1 caño
 - Electrodomésticos en blanco de cristal (microondas, horno)
@@ -136,7 +138,7 @@
   - ❓ Cerrar pared que da al salón
   - ❓ Mueble alto/bajo en pared junto a nevera como dibuja Elena
     - ![](2022-12-02-10-57-26.png)
-    - - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
+    - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
   - ❓ Mover interruptor conmutada junto a enchufe cerca de la pila por si se entra desde la terraza
   - ❓ 2 enchufes en la zona de mesado del mueble junto a nevera
 
@@ -170,11 +172,11 @@
 - ✔️ Mantener jardín en zona más cerca a la casa
 - ✔️ Quitar jardín en la zona más cercana al trastero (depuradora + ducha solar)
 - Añadir llave conmutada para las luces del jardin en el trastero
-- Añadir toma de corriente en la pared de cerca del jardin
+- Añadir toma de corriente en la pared de cerca del jardin (cerca de toma de agua)
 
 ### Dudas
 
-- ❓ Ubicación toma de agua para plantas, etc
+- ❓ Ubicación toma de agua para plantas, etc (preferencia en esquina de zona ajardinada, en el pasillo que va hacia el trastero)
 - ❓ Ubicación desagues en terraza para evitar inundaciones
 - ❓ Suelo de baldosa antideslizante
 - ❓ Corrugado para instalación de luces
@@ -201,6 +203,8 @@
 
 - ✔️ Airzone planta alta
 - Telefonillo portero en la pared del baño
+- ✔️ Cable RJ45 en techo junto a escalera hacia zona salón para AP
+- Enchufe para Alexa
 
 ## Matrimonio
 
@@ -225,6 +229,9 @@
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
 - ✔️ Monomando integrado en pared + ducha de mano
+### Dudas
+- Corredera de cassete para puerta baño
+- Enchufe en la zona actual de apertura de la puerta para toallero eléctrico
 
 ## Habitacion junto matrimonio
 
