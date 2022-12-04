@@ -39,8 +39,10 @@
 - ❓ Domótica
 
 # Planta baja
+
 - ![](abajo.png)
 - ![](baja-electri.png)
+
 ## General
 
 - ✔️ Airzone planta baja
@@ -182,8 +184,9 @@
 - ❓ Corrugado para instalación de luces
 
 ## Trastero
- ![](trastero.png)
- 
+
+![](trastero.png)
+
 - ✔️ Aislamiento
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ Toma RJ45 en el interior desde la casa
@@ -197,8 +200,10 @@
 - ❓ Suelo de baldosa
 
 # Planta alta
-![](arriba.png) 
+
+![](arriba.png)
 ![](alta-electri.png)
+
 ## General
 
 - ✔️ Airzone planta alta
@@ -229,7 +234,9 @@
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
 - ✔️ Monomando integrado en pared + ducha de mano
+
 ### Dudas
+
 - Corredera de cassete para puerta baño
 - Enchufe en la zona actual de apertura de la puerta para toallero eléctrico
 
