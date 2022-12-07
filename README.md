@@ -24,19 +24,21 @@
   - [General](#general-1)
   - [Matrimonio](#matrimonio)
     - [Baño insuite](#baño-insuite)
-  - [Baño de servicio](#baño-de-servicio)
-    - [Dudas](#dudas-8)
+      - [Dudas](#dudas-8)
+  - [Baño común](#baño-común)
+    - [Dudas](#dudas-9)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-9)
+  - [Dudas](#dudas-10)
 
 <!-- /TOC -->
 
 # Dudas generales
 
 - ❓ Domótica
+  - Nos comenta el electricista que se hablará con la persona que lo lleva cuando la obra esté más adelantada.
 
 # Planta baja
 
@@ -86,7 +88,7 @@
   - Posibilidad de módulo más alto que sea como los de los armarios de la casa (balda + barra) y que el resto sea una puerta que de acceso al resto del espacio
     - Que ambas puertas sean estéticamente iguales aunque la de la izquierda de acceso a paso diáfano
     - Que las puertas sean a suelo
-  - 🔌 Enchufe en el interior de este armario
+  - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
 - ❓ Videoportero en pared del baño
   - Enchufe para Alexa
 - ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'? ¿Cómo es la estética de la escalera en general?
@@ -104,7 +106,10 @@
 
 - ✔️ Bidet
 - ✔️ Girar plato de ducha y hacer baldas en el hueco de la columna
+  - ![](baldas1.jpg)
+  - ![](baldas2.jpg)
 - ✔️ Toalleros bajo pila
+  - ![](toallero.jpg)
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
@@ -170,7 +175,9 @@
 - ✔️ Caseta depuradora enterrada
 - ✔️ Depuración salina
 - ✔️ ducha solar 18L
+  - Desagüe haciendo curva el suelo:
   - ![](2022-12-02-19-10-48.png)
+  
 - ✔️ Mantener jardín en zona más cerca a la casa
 - ✔️ Quitar jardín en la zona más cercana al trastero (depuradora + ducha solar)
 - Añadir llave conmutada para las luces del jardin en el trastero
@@ -194,6 +201,7 @@
 - ✔️ Aire acondicionado
 - ✔️ Puerta cortafuegos
 - Punto de luz sobre la ventana, conmutado con el de la pared lateral hasta el porche cubierto
+- Enchufe en cada pared
 
 ### Dudas
 
@@ -223,9 +231,11 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
-- ✔️ Monomando integrado en pared + ducha de mano
 
-## Baño de servicio
+#### Dudas
+- ✔️ Monomando integrado en pared + ducha de mano ¿? (por la bañera)
+
+## Baño común
 
 - ✔️ Bidet
 - ✔️ Toallero bajo pila
@@ -261,4 +271,5 @@
 ## Dudas
 
 - ❓ Espacio disponible para a futuro poner más placas y más baterías
+   - Caben  hasta 18 placas (6x3), excepto sombras de la caseta, etc
 - ❓ Confirmación de modo full backup automático
