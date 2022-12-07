@@ -278,6 +278,8 @@
 - ✔️ Instalación de placas solares con Fronius
 - ✔️ Caseta para baterías e inversor situada sobre baños
 - ✔️ RJ45 hasta switch
+- Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz
+- Otro tubo para paneles adicionales a futuro 
 
 ## Dudas
 
