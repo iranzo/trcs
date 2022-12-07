@@ -39,6 +39,10 @@
 
 - ❓ Domótica
   - Nos comenta el electricista que se hablará con la persona que lo lleva cuando la obra esté más adelantada.
+  - Qué ventanas son?
+    - correderas (salón? , cocina?)
+    - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
+    - puertas 
 
 # Planta baja
 
@@ -70,15 +74,15 @@
 
 ## Recibidor
 
-- ✔️ Cajas muy grandes para cuadro eléctrico
-  - Con espacio para electrónica de red (conversor de medios, router operadora, router, switch, etc)
+- ✔️ Cajas MUY grandes para cuadro eléctrico y red
+  - Con espacio para electrónica de red (conversor de medios, router operadora, router, switch, NVR, etc)
   - Enchufe en rail para poder conectar una regleta con los dispositivos anteriores
     - ![](2022-12-02-19-09-57.png)
   - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
 - ✔️ Armario bajo escalera
 - ✔️ Cable RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
-- ✔️ Enclufe incluido (lámpara)
+- ✔️ Enclufe incluido (lámpara) en llave doble con interruptor conmutado
 - ✔️ Videoportero con Wifi
 
 ### Dudas
@@ -166,7 +170,8 @@
 
 ### Dudas
 
-- ❓ Modelo aerotermia (capacidad litros, etc)
+- ❓ Modelo aerotermia (capacidad litros, etc) (150L)
+  - ¿Tamaño superior?
 
 ## Piscina/Jardin
 
@@ -206,6 +211,7 @@
 ### Dudas
 
 - ❓ Suelo de baldosa
+- Posibilidad de poner baterías e inversor en trastero
 
 # Planta alta
 
@@ -246,10 +252,12 @@
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
 - ✔️ Monomando integrado en pared + ducha de mano
+  - ![](monomando.jpg)
+  - ![](ducha.jpg) 
 
 ### Dudas
 
-- Corredera de cassete para puerta baño
+- Corredera de cassete para puerta baño?
 - Enchufe en la zona actual de apertura de la puerta para toallero eléctrico
 
 ## Habitacion junto matrimonio
@@ -259,6 +267,7 @@
 ## Habitación sobre estudio
 
 - ✔️ Persiana eléctrica de seguridad
+- Enchufes como en estudio?
 
 ## Habitacion sobre entrada
 
