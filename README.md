@@ -39,10 +39,13 @@
 
 - ❓ Domótica
   - Nos comenta el electricista que se hablará con la persona que lo lleva cuando la obra esté más adelantada.
-  - Qué ventanas son?
-    - correderas (salón? , cocina?)
-    - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
-    - puertas 
+- Qué ventanas son?
+  - correderas (salón? , cocina?)
+  - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
+  - puertas 
+- Cuadro para full backup automático placas solares Fronius
+  - ¿Ubicación?
+  - ![](2022-12-07-19-37-39.png)
 
 # Planta baja
 
@@ -56,6 +59,7 @@
 ### Dudas
 
 - ❓ Foseado led con llave adicional en pasillos
+  - ![](2022-12-07-19-39-23.png)
 
 ## Patio delantero
 
@@ -127,6 +131,7 @@
 
 - ❓ Mover conmutador luces pasillo al lado de la columna que no está en la cocina, más hacia el recibidor
 - ❓ Foseado led con llave adicional
+  - ![](2022-12-07-19-39-49.png)
 
 ## Cocina
 
