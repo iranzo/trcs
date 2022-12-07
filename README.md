@@ -233,7 +233,9 @@
 - ✔️ Espejo antivaho
 
 #### Dudas
-- ✔️ Monomando integrado en pared + ducha de mano ¿? (por la bañera)
+- Monomando integrado en pared + ducha de mano ¿? (por la bañera)
+  - ![](monomando.jpg)
+  - ![](ducha.jpg)
 
 ## Baño común
 
