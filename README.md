@@ -15,23 +15,22 @@
   - [Cocina](#cocina)
     - [Dudas](#dudas-4)
   - [Terraza trasera](#terraza-trasera)
-    - [Dudas](#dudas-5)
   - [Piscina/Jardin](#piscinajardin)
-    - [Dudas](#dudas-6)
+    - [Dudas](#dudas-5)
   - [Trastero](#trastero)
-    - [Dudas](#dudas-7)
+    - [Dudas](#dudas-6)
 - [Planta alta](#planta-alta)
   - [General](#general-1)
   - [Matrimonio](#matrimonio)
     - [Baño insuite](#baño-insuite)
-      - [Dudas](#dudas-8)
+      - [Dudas](#dudas-7)
   - [Baño común](#baño-común)
-    - [Dudas](#dudas-9)
+    - [Dudas](#dudas-8)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-10)
+  - [Dudas](#dudas-9)
 
 <!-- /TOC -->
 
@@ -42,7 +41,7 @@
 - Qué ventanas son?
   - correderas (salón? , cocina?)
   - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
-  - puertas 
+  - puertas
 - Cuadro para full backup automático placas solares Fronius
   - ¿Ubicación?
   - ![](2022-12-07-19-37-39.png)
@@ -97,9 +96,9 @@
     - Que ambas puertas sean estéticamente iguales aunque la de la izquierda de acceso a paso diáfano
     - Que las puertas sean a suelo
   - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
-- ❓ Videoportero en pared del baño
-  - Enchufe para Alexa
 - ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'? ¿Cómo es la estética de la escalera en general?
+- ❓ Videoportero en pared junto a cocina
+  - Enchufe para Alexa
 
 ## Estudio
 
@@ -122,6 +121,8 @@
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
 - ✔️ Monomando integrado en pared + ducha de mano
+- Mueble con luces nocturas por movimiento
+  - ![](2022-12-14-11-48-09.png)
 
 ## Salón
 
@@ -144,24 +145,20 @@
 - ✔️ Osmosis con grifo doble en 1 caño
 - Electrodomésticos en blanco de cristal (microondas, horno)
 - Lavavajillas panelado
+- Mover fregadero hacia la zona de la puerta y poner uno más ancho
+- Cocina abierta como estamos hablando con Elena
+  - ![](2022-12-14-11-43-32.png)
 
 ### Dudas
 
-- ❓ Puerta de cassete como dibuja Elena
-  - ![](2022-12-02-10-55-16.png)
-- ❓ Posibilidad toma TV junto a columa extractores y enchufe
-- Si cocina cerrada:
-  - ❓ Cerrar pared que da al salón
-  - ❓ Mueble alto/bajo en pared junto a nevera como dibuja Elena
-    - ![](2022-12-02-10-57-26.png)
-    - ❓ Mueble alto/bajo más corto (90cm vs 120cm dibujados)
-  - ❓ Mover interruptor conmutada junto a enchufe cerca de la pila por si se entra desde la terraza
-  - ❓ 2 enchufes en la zona de mesado del mueble junto a nevera
+- ❓ toma TV junto a columa extractores y enchufe
+- ❓ Mover interruptor conmutada junto a enchufe cerca de la pila por si se entra desde la terraza
+- ❓ 2 enchufes en la zona de mesado del mueble junto a nevera
 
 ## Terraza trasera
 
 - ✔️ Zona de lavanderia
-  - ✔️ Sacar aerotermia
+  - ✔️ Aerotermia 150L propuesta por Heliodoro
   - ✔️ Sacar lavadora
   - ✔️ Sacar Secadora
   - ✔️ Pila
@@ -173,10 +170,6 @@
   - Una para antimosquitos
   - Otra para calefactores
 
-### Dudas
-
-- ❓ Modelo aerotermia (capacidad litros, etc) (150L)
-  - ¿Tamaño superior?
 
 ## Piscina/Jardin
 
@@ -187,7 +180,6 @@
 - ✔️ ducha solar 18L
   - Desagüe haciendo curva el suelo:
   - ![](2022-12-02-19-10-48.png)
-  
 - ✔️ Mantener jardín en zona más cerca a la casa
 - ✔️ Quitar jardín en la zona más cercana al trastero (depuradora + ducha solar)
 - Añadir llave conmutada para las luces del jardin en el trastero
@@ -198,7 +190,7 @@
 - ❓ Ubicación toma de agua para plantas, etc (preferencia en esquina de zona ajardinada, en el pasillo que va hacia el trastero)
 - ❓ Ubicación desagues en terraza para evitar inundaciones
 - ❓ Suelo de baldosa antideslizante
-- ❓ Corrugado para instalación de luces
+- ❓ Corrugado para instalación de luces en pared opuesta que llegue hasta el cuadro eléctrico
 
 ## Trastero
 
@@ -242,8 +234,11 @@
 - ✔️ Tapa water retardada
 - ✔️ Tapa bidet retardada
 - ✔️ Espejo antivaho
+- Mueble con luces nocturas por movimiento
+  - ![](2022-12-14-11-48-09.png)
 
 #### Dudas
+
 - Monomando integrado en pared + ducha de mano ¿? (por la bañera)
   - ![](monomando.jpg)
   - ![](ducha.jpg)
@@ -258,7 +253,9 @@
 - ✔️ Espejo antivaho
 - ✔️ Monomando integrado en pared + ducha de mano
   - ![](monomando.jpg)
-  - ![](ducha.jpg) 
+  - ![](ducha.jpg)
+- Mueble con luces nocturas por movimiento
+  - ![](2022-12-14-11-48-09.png)
 
 ### Dudas
 
@@ -281,13 +278,13 @@
 # Tejado
 
 - ✔️ Instalación de placas solares con Fronius
-- ✔️ Caseta para baterías e inversor situada sobre baños
 - ✔️ RJ45 hasta switch
 - Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz
-- Otro tubo para paneles adicionales a futuro 
 
 ## Dudas
 
-- ❓ Espacio disponible para a futuro poner más placas y más baterías
-   - Caben  hasta 18 placas (6x3), excepto sombras de la caseta, etc
+- ❓ Baterias e inversor
+  - en trastero
+  - bajo escalera
+  - ❌ en caseta sobre tejado en baños
 - ❓ Confirmación de modo full backup automático
