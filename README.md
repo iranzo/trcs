@@ -82,7 +82,13 @@
   - Enchufe en rail para poder conectar una regleta con los dispositivos anteriores
     - ![](2022-12-02-19-09-57.png)
   - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
-- ✔️ Armario bajo escalera
+- ✔️ Armario bajo escalera con puertas a suelo
+  - ![](2022-12-02-10-48-21.png)
+  - Puerta doble a al derecha para armario cerrado (con barra, balda, etc) y que en la parte de abajo tenga también madera para aislar más
+  - Puerta doble al lado para dar paso a hueco diáfano estéticamente igual a la anterior
+    - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
+    - Fronius 
+    - Baterías
 - ✔️ Cable RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
 - ✔️ Enclufe incluido (lámpara) en llave doble con interruptor conmutado
@@ -90,12 +96,6 @@
 
 ### Dudas
 
-- ❓ Puerta única o varias como dibuja Elena en el armario
-  - ![](2022-12-02-10-48-21.png)
-  - Posibilidad de módulo más alto que sea como los de los armarios de la casa (balda + barra) y que el resto sea una puerta que de acceso al resto del espacio
-    - Que ambas puertas sean estéticamente iguales aunque la de la izquierda de acceso a paso diáfano
-    - Que las puertas sean a suelo
-  - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
 - ❓ ¿Cómo son los barrotes de la escalera? ¿Cómo es en el rellano superior el 'hueco'? ¿Cómo es la estética de la escalera en general?
 - ❓ Videoportero en pared junto a cocina
   - Enchufe para Alexa
@@ -170,7 +170,6 @@
   - Una para antimosquitos
   - Otra para calefactores
 
-
 ## Piscina/Jardin
 
 - ✔️ Desplazar piscina hacia el trastero dejando el hueco para caseta depuradora y ducha
@@ -199,7 +198,7 @@
 - ✔️ Aislamiento
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ Toma RJ45 en el interior desde la casa
-- ✔️ Toma RJ45 en el exterior para cámara
+- ✔️ Toma RJ45 en el exterior para cámara (caja estanca, etc)
 - ✔️ Aire acondicionado
 - ✔️ Puerta cortafuegos
 - Punto de luz sobre la ventana, conmutado con el de la pared lateral hasta el porche cubierto
@@ -277,14 +276,9 @@
 
 # Tejado
 
-- ✔️ Instalación de placas solares con Fronius
-- ✔️ RJ45 hasta switch
-- Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz
+- ✔️ Instalación de 13 placas solares con Fronius
+- Caja estanca para el tubo
+- Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz  (estación metereológica, etc)
 
 ## Dudas
-
-- ❓ Baterias e inversor
-  - en trastero
-  - bajo escalera
-  - ❌ en caseta sobre tejado en baños
 - ❓ Confirmación de modo full backup automático
