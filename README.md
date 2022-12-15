@@ -83,7 +83,10 @@
     - ![](2022-12-02-19-09-57.png)
   - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
 - ✔️ Armario bajo escalera con puertas a suelo
-  - ![](2022-12-02-10-48-21.png)
+  - Elena:
+    - ![](2022-12-02-10-48-21.png)
+  - Propuesta:
+    - ![](2022-12-16-00-34-13.png)
   - Puerta doble a al derecha para armario cerrado (con barra, balda, etc) y que en la parte de abajo tenga también madera para aislar más
   - Puerta doble al lado para dar paso a hueco diáfano estéticamente igual a la anterior
     - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
@@ -138,6 +141,7 @@
 
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ mover placa hacia el centro
+- Mover fregadero hacia la zona de la puerta y poner uno más ancho
 - De los 4 enchufes, poner uno a cada lado de la placa y mover los otros dos, a la zona de la mesa, uno a poca altura sobre ella (thermomix,movil, etc) y otro altura más elevada para marco Alexa
 - ✔️ Luces bajo muebles del banco (pared de aguas y la otra)
   - Interruptor junto a enchufes para activar las luces bajo mueble
@@ -145,7 +149,6 @@
 - ✔️ Osmosis con grifo doble en 1 caño
 - Electrodomésticos en blanco de cristal (microondas, horno)
 - Lavavajillas panelado
-- Mover fregadero hacia la zona de la puerta y poner uno más ancho
 - Cocina abierta como estamos hablando con Elena
   - ![](2022-12-14-11-43-32.png)
 
