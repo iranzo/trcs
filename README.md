@@ -187,6 +187,7 @@
 - ❓ Ubicación desagues en terraza para evitar inundaciones
 - ❓ Suelo de baldosa antideslizante
 - ❓ Corrugado para instalación de luces en pared opuesta que llegue hasta el cuadro eléctrico
+- ❓ Poner azulejos 'grandes' en lugar de gresite
 
 ## Trastero
 
@@ -277,5 +278,7 @@
 - Caja estanca para el tubo
 - Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz  (estación metereológica, etc)
 
+
 ## Dudas
 - ❓ Confirmación de modo full backup automático
+- Poner argollas a modo de escalera para subir terraza
