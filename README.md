@@ -188,6 +188,7 @@
 - ❓ Suelo de baldosa antideslizante
 - ❓ Corrugado para instalación de luces en pared opuesta que llegue hasta el cuadro eléctrico
 - ❓ Poner azulejos 'grandes' en lugar de gresite
+  - ![](2022-12-16-20-01-34.png)
 
 ## Trastero
 
