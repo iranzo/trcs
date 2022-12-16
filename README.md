@@ -82,13 +82,7 @@
   - Enchufe en rail para poder conectar una regleta con los dispositivos anteriores
     - ![](2022-12-02-19-09-57.png)
   - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
-- ✔️ Armario bajo escalera con puertas a suelo
-  - Elena:
-    - ![](2022-12-02-10-48-21.png)
-  - Propuesta:
-    - ![](2022-12-16-00-34-13.png)
-  - Puerta doble a al derecha para armario cerrado (con barra, balda, etc) y que en la parte de abajo tenga también madera para aislar más
-  - Puerta doble al lado para dar paso a hueco diáfano estéticamente igual a la anterior
+- ✔️ Armario bajo escalera con puertas grande como las de la casa a ras de suelo
     - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
     - Fronius 
     - Baterías
