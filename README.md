@@ -170,6 +170,7 @@
 - Lavavajillas panelado
 - Cocina abierta como estamos hablando con Elena
   - ![](2022-12-14-11-43-32.png)
+  - Rellenar columna esquina comedor para que el murete haga que el mueble sea 'recto' en lugar de tener que recortarlo
 
 ### Dudas
 
