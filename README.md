@@ -55,6 +55,7 @@
 
 - ❓ Domótica
   - Nos comenta el electricista que se hablará con la persona que lo lleva cuando la obra esté más adelantada.
+
 - Qué ventanas son?
   - tipos:
     - correderas (salón? , cocina?) 
@@ -65,6 +66,7 @@
     - Correderas
     - Corredera Elevable
     - Practicable
+
 - Cuadro para full backup automático placas solares Fronius
   - ¿Ubicación?
   - ![](2022-12-07-19-37-39.png)
@@ -352,7 +354,8 @@ En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni cr
 - [CorrederaElevable](CorrederaElevable.pdf)
 ## Piscina
 - [Caseta fibra](casetafibra.pdf)
-  
+- Ducha solar BEHQ 18 Litros
+  - ![](2022-12-18-12-51-21.png)
 ## Aerotermia
 - [Thermor Aeromax 150](ficha-aeromax-vm-es-2021.pdf)
 
