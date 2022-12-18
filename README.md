@@ -31,17 +31,35 @@
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
 - [Tejado](#tejado)
   - [Dudas](#dudas-9)
+- [Datos](#datos)
+  - [Aislamiento suelo](#aislamiento-suelo)
+  - [Raices pino  parcela cercana](#raices-pino--parcela-cercana)
+- [Materiales](#materiales)
+  - [Suelo](#suelo)
+    - [Parquet](#parquet)
+  - [Ventanas](#ventanas)
+  - [Piscina](#piscina)
+  - [Aerotermia](#aerotermia)
+- [Armarios](#armarios)
 
 <!-- /TOC -->
 
 # Dudas generales
 
+- Que las placas de pladur de las paredes lleguen hasta el techo, no sólo al falso techo para aislar ruidos
+
 - ❓ Domótica
   - Nos comenta el electricista que se hablará con la persona que lo lleva cuando la obra esté más adelantada.
 - Qué ventanas son?
-  - correderas (salón? , cocina?)
-  - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
-  - puertas
+  - tipos:
+    - correderas (salón? , cocina?) 
+    - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
+    - puertas
+
+  - Según tipo de ficha materiales
+    - Correderas
+    - Corredera Elevable
+    - Practicable
 - Cuadro para full backup automático placas solares Fronius
   - ¿Ubicación?
   - ![](2022-12-07-19-37-39.png)
@@ -283,3 +301,34 @@
 ## Dudas
 - ❓ Confirmación de modo full backup automático
 - Poner argollas a modo de escalera para subir terraza
+
+
+# Datos
+## Aislamiento suelo
+Hay varias soluciones para la humedad. El forjado sanitario es para para la humedad que actualmente normalmente  lo sustituye o bien con: solera de hormigón sobre encofrado perdido de módulo de polipropileno o como lo plantea la arquitecta que además de aislar la humedad se consigue un gran aislamiento térmico
+
+En nuestro caso actualmente hay una solera de hormigón entre 15 y 20 com de espesor que esta sobre una capa de asfalto de unos 7 cm de espesor. Con lo cual ya hay una doble capa. Las humedades en viviendas antiguas es porque solo tienen una solera de hormigón entre el terreno y el pavimento
+
+La solución del proyecto es sobre la doble capa actual: Barrera de vapor de oxiasfalto, lámina de polietileno, placa AIR-BUR XPS entre 60 y 80 mm y sobre esta solera de hormigón de entre 10 y 18 cm. de espesor, armada con mallazo para finalmente acabar con el pavimento porcelánico colocado con cemento cola. Con la que se consigue además de aislamiento de la humedad más aislamiento térmico del envolvente total de la vivienda.  Evidentemente cumpliendo de sobra la normativa actual y para intentar conseguir la máxima eficiencia energética  que añadiendo las placas solares  se prevé A en emisiones de carbono y A en consumo de energía.
+
+## Raices pino  parcela cercana
+En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni creo que afecte en un futuro teniendo en cuenta que la valla y la edificación medianera con los vecinos va sobre una cimentación de hormigón que las raíces no pueden pasarla.
+
+
+# Materiales
+## Suelo
+### Parquet
+- [CLIPARQUET](CLIPARQUET.pdf)
+- [Gold laminate](GOLDLAMINATE.pdf)
+## Ventanas
+- [Practicable](Practicable.pdf)
+- [Corredera](CorrederaEvolucion.pdf)
+- [CorrederaElevable](CorrederaElevable.pdf)
+## Piscina
+- [Caseta fibra](casetafibra.pdf)
+  
+## Aerotermia
+- [Thermor Aeromax 150](ficha-aeromax-vm-es-2021.pdf)
+
+# Armarios
+- ![](2022-12-18-12-13-47.png)
