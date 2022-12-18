@@ -35,10 +35,15 @@
   - [Aislamiento suelo](#aislamiento-suelo)
   - [Raices pino  parcela cercana](#raices-pino--parcela-cercana)
 - [Materiales](#materiales)
+  - [Baños](#baños)
+  - [Cocina](#cocina-1)
+  - [Interiores](#interiores)
   - [Suelo](#suelo)
     - [Parquet](#parquet)
+    - [Piscina](#piscina)
+    - [Porche](#porche)
   - [Ventanas](#ventanas)
-  - [Piscina](#piscina)
+  - [Piscina](#piscina-1)
   - [Aerotermia](#aerotermia)
 - [Armarios](#armarios)
 
@@ -316,10 +321,31 @@ En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni cr
 
 
 # Materiales
+## Baños
+ - Sanitarios: Roca, unisan o similar blanco
+ - Grifería: FLAT-TRES
+ - Mueble: Riesi
+ - Pavimento: Pamesa
+ - Principal: Alicatados: 36x80 Muren Nacar combinado con Muren Dec Gris
+ - Secundarios: 30x90 alba arena y alba Relieve
+
+## Cocina
+- Griferia monomando Roca
+- Pavimento Pamesa
+- Encimera FBT Quartz
+
+## Interiores
+- Suelo planta baja: AT. Viggo de Pamesa
 ## Suelo
 ### Parquet
 - [CLIPARQUET](CLIPARQUET.pdf)
 - [Gold laminate](GOLDLAMINATE.pdf)
+###  Piscina
+  - Perimetral: Benesol Natural
+
+  
+### Porche
+- Benesol Natural
 ## Ventanas
 - [Practicable](Practicable.pdf)
 - [Corredera](CorrederaEvolucion.pdf)
