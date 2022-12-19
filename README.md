@@ -94,10 +94,11 @@
 - ✔️ Descalcificador
 - ✔️ Caja estanca en techo porche delantero, esquina más cercana a puerta entrada de la calle
   - ✔️ Cable RJ45 dentro de la caja estanca hasta el switch
+- El descalcificador va en la esquina de la entrada del garaje.
 
 ### Dudas
 
-- ❓ Tamaño y ubicación de descalcificador
+- ❓ Protección para el descalcificador que no esté a la intemperie y almacenamiento de la sal?
 - ❓ La puerta automática lleva sensor para no cerrarse si hay vehiculo pasando?
 
 ## Recibidor
@@ -232,7 +233,6 @@
 ### Dudas
 
 - ❓ Suelo de baldosa
-- Posibilidad de poner baterías e inversor en trastero
 
 # Planta alta
 
@@ -304,11 +304,11 @@
 - ✔️ Instalación de 13 placas solares con Fronius
 - Caja estanca para el tubo
 - Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz  (estación metereológica, etc)
-
+- Poner argollas a modo de escalera para subir terraza desde zona de porchado
 
 ## Dudas
 - ❓ Confirmación de modo full backup automático
-- Poner argollas a modo de escalera para subir terraza
+
 
 
 # Datos
