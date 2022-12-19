@@ -92,9 +92,10 @@
 - ✔️ Enchufe exteriores
 - ✔️ Preinstalación para poner cargador de coche eléctrico (corrugado hasta el cuadro, etc.). Punto cerca del medio de la fachada, centrado en la zona de aparcamiento.
 - ✔️ Descalcificador
+  - El descalcificador va en la esquina de la entrada del garaje.
 - ✔️ Caja estanca en techo porche delantero, esquina más cercana a puerta entrada de la calle
   - ✔️ Cable RJ45 dentro de la caja estanca hasta el switch
-- El descalcificador va en la esquina de la entrada del garaje.
+
 
 ### Dudas
 
@@ -110,8 +111,7 @@
   - Conexión a la red telefónica RJ11 de la casa (para conectar al router)
 - ✔️ Armario bajo escalera con puertas grande como las de la casa a ras de suelo
     - 🔌 Enchufe en el interior de este armario que da acceso al espacio diáfano
-    - Fronius 
-    - Baterías
+
 - ✔️ Cable RJ45 en techo junto a escalera hacia zona salón para AP
 - ✔️ 🔌 Enchufe en la parte baja de la pared alineada con la puerta (aspirador)
 - ✔️ Enclufe incluido (lámpara) en llave doble con interruptor conmutado
@@ -224,7 +224,7 @@
 - ✔️ Aislamiento
 - ✔️ Persiana eléctrica de seguridad
 - ✔️ Toma RJ45 en el interior desde la casa
-- ✔️ Toma RJ45 en el exterior para cámara (caja estanca, etc)
+- ✔️ Toma RJ45 en el exterior para cámara (caja estanca, corrugado, etc)
 - ✔️ Aire acondicionado
 - ✔️ Puerta cortafuegos
 - Punto de luz sobre la ventana, conmutado con el de la pared lateral hasta el porche cubierto
