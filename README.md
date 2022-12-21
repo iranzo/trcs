@@ -120,6 +120,7 @@
   - zona de lavaderia en el porche con cerramiento de dos hojas con llave
     - Pila de lavado
   - Escalera de pies de gato para subir al tejado
+  - Cambiar Benesol Natural
 
 ### Piscina
 
@@ -127,6 +128,7 @@
   -  depuradora en la zona cerca del trastero
   - poner la depuración salina en la piscina
   - Ducha solar 18 litros con desague en pequeño desnivel
+  - Cambiar Benesol Natural
   
 
 ### Trastero
