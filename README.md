@@ -92,6 +92,7 @@
 #### Armario bajo escalera
 - Inversor Huawei 6KTL
 - Batería Huawei Luna 5Kw
+- backup box
 ##### Dudas
   - Confirmación modo isla automático
   - Confirmación conexión a aerotermia para almacenamiento excedente una vez la batería esté cargada
@@ -425,11 +426,11 @@ En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni cr
 
 ### Piscina
 
-- Perimetral: Benesol Natural
+- Perimetral: VIGGO
 
 ### Porche
 
-- Benesol Natural
+- VIGGO
 
 ## Ventanas
 
