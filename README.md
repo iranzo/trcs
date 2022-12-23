@@ -1,6 +1,6 @@
 <!-- TOC -->
 
-- [Peticiones](#peticiones)
+- [Peticiones confirmadas](#peticiones-confirmadas)
   - [General](#general)
   - [Planta baja](#planta-baja)
     - [Entrada](#entrada)
@@ -12,7 +12,7 @@
     - [Cocina](#cocina)
   - [Patio trasero](#patio-trasero)
     - [Porchado](#porchado)
-    - [Piscina](#piscina)
+    - [Piscina y patio](#piscina-y-patio)
     - [Trastero](#trastero)
   - [Planta superior](#planta-superior)
   - [Habitacion principal](#habitacion-principal)
@@ -47,119 +47,123 @@
   - [Habitación sobre estudio](#habitación-sobre-estudio)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
 - [Tejado](#tejado)
-  - [Dudas](#dudas-9)
-- [Datos](#datos)
+- [Datos confirmados](#datos-confirmados)
   - [Aislamiento suelo](#aislamiento-suelo)
   - [Raices pino parcela cercana](#raices-pino-parcela-cercana)
+- [Pladur](#pladur)
 - [Materiales](#materiales)
   - [Baños](#baños)
   - [Cocina](#cocina-2)
   - [Interiores](#interiores)
   - [Suelo](#suelo)
     - [Parquet](#parquet)
-    - [Piscina](#piscina-1)
+    - [Piscina](#piscina)
     - [Porche](#porche)
   - [Ventanas](#ventanas)
-  - [Piscina](#piscina-2)
+  - [Piscina](#piscina-1)
   - [Aerotermia](#aerotermia)
 - [Armarios](#armarios)
 
 <!-- /TOC -->
 
-# Peticiones
+# Peticiones confirmadas
 
 ## General
-  - airzone en ambas plantas
-  - persianas eléctricas de seguridad en toda la casa, incluido trastero
-  - bidet en todos los baños
+
+- Airzone en ambas plantas
+- persianas eléctricas de seguridad en toda la casa, incluido trastero
+- bidet en todos los baños
 
 ## Planta baja
 
 ### Entrada
 
-  - Puerta de garage motorizada
-  - Descalcificador en esquina entrada derecha con algo que lo proteja y pueda guardarse la sal dentro
-  - pre-instalación para cargador de coche eléctrico (el tubo)
-  - Toma de agua + enchufe
+- Puerta de garage motorizada
+- Descalcificador en esquina entrada derecha con algo que lo proteja y pueda guardarse la sal dentro
+- Osmosis junto al descalcificador
+- pre-instalación para cargador de coche eléctrico (el tubo corrugado)
+- Toma de agua + enchufe
 
 ### Recibidor
 
-  - videoportero wifi (me faltaría saber el modelo que me propones)
-  - cerrar escalera con puerta como las de la casa de acceso a espacio diafano
-  - Cajas muy grandes para meter toda la instalación eléctrica y aparatos de red (operadora, switch, etc)
-  - Toma RJ45 en techo para punto de acceso en zona cercana a Salón por definir
+- Videoportero wifi (me faltaría saber el modelo que me propones)
+- Cerrar escalera con puerta como las de la casa de acceso a espacio diafano
+- Cajas muy grandes para meter toda la instalación eléctrica y aparatos de red (operadora, switch, etc). Ejemplo de lo que pasa con una caja de 50x50:
+  - ![](2022-12-23-16-30-38.png)
+- Toma RJ45 en techo para punto de acceso en zona cercana a Salón por definir
 
 #### Armario bajo escalera
+
 - Inversor Huawei 6KTL
 - Batería Huawei Luna 5Kw
-- backup box
+- Backup box
+
 ##### Dudas
-  - Confirmación modo isla automático
-  - Confirmación conexión a aerotermia para almacenamiento excedente una vez la batería esté cargada
-  - Conexión RJ45 cableada a switch
+
+- Confirmación conexión a aerotermia para almacenamiento excedente una vez la batería esté cargada
+- Conexión RJ45 cableada a switch
 
 ### Despacho/Estudio
-  - No poner reja 
-  - hacer armario en planta baja como en la superior
+
+- No poner reja
+- Hacer armario en planta baja como en la superior
 
 ### Baño
-  - Rotar bañera y hacer baldas en hueco al lado de columna
-  - Poner bidet
-  
+
+- Rotar bañera y hacer baldas en hueco al lado de columna
+- Poner bidet
+
 ### Cocina
-  - ✔️ Osmosis con grifo doble en 1 caño
-  - Hacer cocina abierta como nos pasó Elena (a falta de temas como lo de la pila, etc que entiendo que no afectan)
+
+- ✔️ Osmosis con grifo doble en 1 caño
+- Hacer cocina abierta como nos pasó Elena (a falta de temas como lo de la pila, etc que entiendo que no afectan)
   - ![](2022-12-19-18-39-38.png)
-  - Rellenar columna esquina comedor para que el murete haga que el mueble sea 'recto' en lugar de tener que recortarlo
-  - 
 
 ## Patio trasero
+
 ### Porchado
 
-  - aerotermia de 150 (la que ponías)
-  - suelo del patio trasero con baldosa antideslizante
-  - zona de lavaderia en el porche con cerramiento de dos hojas con llave
-    - Pila de lavado
-  - Escalera de pies de gato para subir al tejado
-  - Cambiar Benesol Natural
+- aerotermia de 150 (la que ponías)
+- suelo del patio trasero con baldosa antideslizante VIGGO
+- zona de lavaderia en el porche con cerramiento de dos hojas con llave
+  - Pila de lavado
+- Escalera de pies de gato para subir al tejado
 
-### Piscina
+### Piscina y patio
 
-  - mover la piscina
-  -  depuradora en la zona cerca del trastero
-  - poner la depuración salina en la piscina
-  - Ducha solar 18 litros con desague en pequeño desnivel
-  - Cambiar Benesol Natural
-  
+- mover la piscina
+- depuradora en la zona cerca del trastero
+- poner la depuración salina en la piscina
+- Ducha solar 18 litros con desague en pequeño desnivel
+- Pavimento VIGGO
 
 ### Trastero
 
-  - trastero aislado con la puerta que nos comentaste que nos pondrías anti incendios y la ventana
-  - aire acondicionado en trastero
-  - suelo como en interior vivienda
-  - Conexión RJ45 hasta la vivienda
+- trastero aislado con la puerta que nos comentaste que nos pondrías anti incendios y la ventana
+- aire acondicionado en trastero
+- suelo como en interior vivienda
+- Conexión RJ45 hasta la vivienda
 
 - Tejado
   - placas solares (13) + batería con solución huawei y que tenga el modo isla automático para poder operar con bateria y placas en caso de desconexión
   - corrugado hasta el tejado para en un futuro por si se pudieran poner más placas (me dijo Mario que ya te lo diría)
   - corrugado hasta el tejado para en un futuro por si se quieren poner estación metereológica, etc
 
-
 ## Planta superior
+
 - Toma RJ45 en techo para punto de acceso en zona cerca hueco escalera (centrada habitaciones)
+
 ## Habitacion principal
+
 ### baño insuite
+
 - Poner bañera en lugar de plato de ducha
+
 ## Baño de servicio
-  - Poner bidet
 
-
-
-
+- Poner bidet
 
 # Otros temas
-
-- Que las placas de pladur de las paredes lleguen hasta el techo, no sólo al falso techo para aislar ruidos
 
 - ❓ Domótica
 
@@ -168,6 +172,7 @@
 - Qué ventanas son?
 
   - tipos:
+
     - correderas (salón? , cocina?)
     - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
     - puertas
@@ -222,7 +227,6 @@
 
 ## Estudio
 
-
 - ✔️ 🔌 Toma adicional de teléfono
 - ✔️ 🔌 Toma adicional de RJ45
 - ✔️ 🔌 Enchufes adicionales en mesa
@@ -244,7 +248,6 @@
 
 ## Salón
 
-
 ### Dudas
 
 - ❓ Mover conmutador luces pasillo al lado de la columna que no está en la cocina, más hacia el recibidor
@@ -261,7 +264,6 @@
 
 - Electrodomésticos en blanco de cristal (microondas, horno)
 - Lavavajillas panelado
-
 
 ### Dudas
 
@@ -280,8 +282,8 @@
 
 ## Piscina/Jardin
 
-
 - Desagüe ducha solar haciendo curva el suelo:
+
   - ![](2022-12-02-19-10-48.png)
 
 - Añadir llave conmutada para las luces del jardin en el trastero
@@ -300,13 +302,10 @@
 
 ![](trastero.png)
 
-
 - ✔️ Toma RJ45 en el interior desde la casa
 - ✔️ Toma RJ45 en el exterior para cámara (caja estanca, corrugado, etc)
 - Punto de luz sobre la ventana, conmutado con el de la pared lateral hasta el porche cubierto
 - Enchufe en cada pared
-
-
 
 # Planta alta
 
@@ -320,7 +319,6 @@
 - Enchufe para Alexa
 
 ## Matrimonio
-
 
 ### Baño insuite
 
@@ -360,16 +358,11 @@
 
 ## Habitacion junto matrimonio
 
-
-
 ## Habitación sobre estudio
-
 
 - Enchufes como en estudio?
 
 ## Habitacion sobre entrada
-
-
 
 # Tejado
 
@@ -377,12 +370,7 @@
 - Caja estanca para el tubo auxiliar
 - Tubo corrugado del 5 o lo que sea para pasar cables al cuadro eléctrico para a futuro poder pasar cable de red o punto de luz (estación metereológica, etc)
 
-
-## Dudas
-
-- ❓ Confirmación de modo full backup automático
-
-# Datos
+# Datos confirmados
 
 ## Aislamiento suelo
 
@@ -395,6 +383,10 @@ La solución del proyecto es sobre la doble capa actual: Barrera de vapor de oxi
 ## Raices pino parcela cercana
 
 En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni creo que afecte en un futuro teniendo en cuenta que la valla y la edificación medianera con los vecinos va sobre una cimentación de hormigón que las raíces no pueden pasarla.
+
+# Pladur
+
+- Que las placas de pladur de las paredes lleguen hasta el techo, no sólo al falso techo para aislar ruidos
 
 # Materiales
 
@@ -411,7 +403,7 @@ En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni cr
 
 - Griferia monomando Roca
 - Pavimento Pamesa
-- Encimera FBT Quartz
+- Encimera FBT Quartz <https://www.fcobarbamarmoles.com/marmol-valencia/compacto-quarzo/>
 
 ## Interiores
 
