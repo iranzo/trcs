@@ -57,10 +57,10 @@
   - [Interiores](#interiores)
   - [Suelo](#suelo)
     - [Parquet](#parquet)
-    - [Piscina](#piscina)
+    - [Piscina y Jardín](#piscina-y-jardín)
     - [Porche](#porche)
   - [Ventanas](#ventanas)
-  - [Piscina](#piscina-1)
+  - [Piscina](#piscina)
   - [Aerotermia](#aerotermia)
 - [Armarios](#armarios)
 
@@ -416,9 +416,9 @@ En cuanto a las raíces no se observa ninguna afección en nuestra parcela ni cr
 - [CLIPARQUET](CLIPARQUET.pdf)
 - [Gold laminate](GOLDLAMINATE.pdf)
 
-### Piscina
+### Piscina y Jardín
 
-- Perimetral: VIGGO
+- VIGGO
 
 ### Porche
 
