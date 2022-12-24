@@ -279,6 +279,7 @@
 - Añadir otra llave doble al lado a dos puntos de luz en el techo.
   - Una para antimosquitos
   - Otra para calefactores
+- Ventilador de techo
 
 ## Piscina/Jardin
 
@@ -319,6 +320,7 @@
 - Enchufe para Alexa
 
 ## Matrimonio
+- Caja fuerte en armario
 
 ### Baño insuite
 
@@ -363,6 +365,8 @@
 - Enchufes como en estudio?
 
 ## Habitacion sobre entrada
+
+- Enchufe exterior en balcón
 
 # Tejado
 
