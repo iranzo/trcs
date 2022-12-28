@@ -10,6 +10,9 @@
     - [Despacho/Estudio](#despachoestudio)
     - [Baño](#baño)
     - [Cocina](#cocina)
+      - [Dudas](#dudas-1)
+    - [Salón](#salón)
+      - [Dudas](#dudas-2)
   - [Patio trasero](#patio-trasero)
     - [Porchado](#porchado)
     - [Piscina y patio](#piscina-y-patio)
@@ -21,28 +24,28 @@
 - [Otros temas](#otros-temas)
 - [Planta baja](#planta-baja-1)
   - [General](#general-1)
-    - [Dudas](#dudas-1)
-  - [Patio delantero](#patio-delantero)
-    - [Dudas](#dudas-2)
-  - [Recibidor](#recibidor-1)
     - [Dudas](#dudas-3)
+  - [Patio delantero](#patio-delantero)
+    - [Dudas](#dudas-4)
+  - [Recibidor](#recibidor-1)
+    - [Dudas](#dudas-5)
   - [Estudio](#estudio)
   - [Baño planta baja](#baño-planta-baja)
-  - [Salón](#salón)
-    - [Dudas](#dudas-4)
+  - [Salón](#salón-1)
+    - [Dudas](#dudas-6)
   - [Cocina](#cocina-1)
-    - [Dudas](#dudas-5)
+    - [Dudas](#dudas-7)
   - [Terraza trasera](#terraza-trasera)
   - [Piscina/Jardin](#piscinajardin)
-    - [Dudas](#dudas-6)
+    - [Dudas](#dudas-8)
   - [Trastero](#trastero-1)
 - [Planta alta](#planta-alta)
   - [General](#general-2)
   - [Matrimonio](#matrimonio)
     - [Baño insuite](#baño-insuite-1)
-      - [Dudas](#dudas-7)
+      - [Dudas](#dudas-9)
   - [Baño común](#baño-común)
-    - [Dudas](#dudas-8)
+    - [Dudas](#dudas-10)
   - [Habitacion junto matrimonio](#habitacion-junto-matrimonio)
   - [Habitación sobre estudio](#habitación-sobre-estudio)
   - [Habitacion sobre entrada](#habitacion-sobre-entrada)
@@ -71,7 +74,7 @@
 ## General
 
 - Airzone en ambas plantas
-- persianas eléctricas de seguridad en toda la casa, incluido trastero
+- Persianas eléctricas de seguridad en toda la casa, incluido trastero
 - bidet en todos los baños
 
 ## Planta baja
@@ -116,15 +119,28 @@
 ### Cocina
 
 - ✔️ Osmosis con grifo doble en 1 caño
-- Hacer cocina abierta como nos pasó Elena (a falta de temas como lo de la pila, etc que entiendo que no afectan)
-  - ![](2022-12-19-18-39-38.png)
+- Hacer cocina abierta.
+  - Detalles a determinar
+#### Dudas
+  - Mover muro cerca de la escalera para hacer hueco de 60 para electrodomésticos
+  - Poner fijo en muro cercano al comedor
+  - Apertura de puerta contra armario lavandería
+
+### Salón
+
+#### Dudas
+
+- Corredera elevable u osciloparalela o doble puerta
+  - Doble con fijos a ambos lados
+  - Triple con 3 railes
+
 
 ## Patio trasero
 
 ### Porchado
 
 - aerotermia de 150 (la que ponías)
-- suelo del patio trasero con baldosa antideslizante VIGGO
+- suelo del patio trasero con baldosa antideslizante VIGGO incluido rodapie
 - zona de lavaderia en el porche con cerramiento de dos hojas con llave
   - Pila de lavado
 - Escalera de pies de gato para subir al tejado
@@ -135,7 +151,7 @@
 - depuradora en la zona cerca del trastero
 - poner la depuración salina en la piscina
 - Ducha solar 18 litros con desague en pequeño desnivel
-- Pavimento VIGGO
+- Pavimento VIGGO incluido rodapie
 
 ### Trastero
 
@@ -168,19 +184,6 @@
 - ❓ Domótica
 
   - Nos comenta el electricista que se hablará con la persona que lo lleva cuando la obra esté más adelantada.
-
-- Qué ventanas son?
-
-  - tipos:
-
-    - correderas (salón? , cocina?)
-    - oscilobatientes (despacho?, trastero? habitaciones sin balcón? )
-    - puertas
-
-  - Según tipo de ficha materiales
-    - Correderas
-    - Corredera Elevable
-    - Practicable
 
 # Planta baja
 
@@ -320,6 +323,7 @@
 - Enchufe para Alexa
 
 ## Matrimonio
+
 - Caja fuerte en armario
 
 ### Baño insuite
