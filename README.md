@@ -195,6 +195,7 @@
 
 - ✔️ Caja estanca en techo porche delantero, esquina más cercana a puerta entrada de la calle
   - ✔️ Cable RJ45 dentro de la caja estanca hasta el switch
+- Según alturas (2 metros muro exterior, 2.5 en patio trasero )
 
 #### Dudas
 
