@@ -148,6 +148,13 @@
 
 - Hacer cocina abierta.
   - Detalles a determinar
+    - La puerta de la cocina tal cual la ha dibujado Elena
+    - Mover la parte de bancada con sillas hacia la zona de la ventana, para que invada menos el salón (en la medida de lo posible) para que quedara también estético (ya lo comentamos en la reunión)
+    - Poner la encimera en toda la cocina de 4cm de grosor
+    - La bancada hacerla de 3 módulos de 60, 2 de ellos con 40 de fondo y el otro, dos módulos de 20, uno abierto a modo de estantería hacia el salón y otro hacia la cocina con puerta
+    - Voladizo en la mesa de 30 centímetros por cada lado. (de forma que la medida total hasta la pared sería 180 + 30 que debería dejar bastante paso)
+    - Pondríamos la nevera más cerca de la esquina del pilar pequeño (más cerca del salón), la columna de horno en el medio, y al lateral más cercano a la columna que se ha rellenado, dejar el armario de arriba a abajo, pero con un enchufe adicional en la parte inferior por si en el futuro se pone un congelador bajo.
+    - En la esquina donde está la columna es donde haríamos una vitrina en L,
 
 #### Dudas
 
@@ -157,9 +164,7 @@
 
 #### Dudas
 
-- Corredera elevable u osciloparalela o doble puerta
-  - Doble con fijos a ambos lados
-  - Triple con 3 railes
+- En la parte del salón, poner puerta doble, con apertura hacia adentro pero con el fijo en la zona más alejada de la bancada:
 
 ## Patio trasero
 
